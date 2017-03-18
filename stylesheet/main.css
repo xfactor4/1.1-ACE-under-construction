@@ -1,10 +1,6 @@
 @font-face {
     font-family: '../stylesheet/TeX Gyre Adventor';
-    src: local('TeX Gyre Adventor'),
-    local('TeXGyreAdventor-Bold'),
-    local('TeXGyreAdventor-Italic'),
-    local('TeXGyreAdventor-ItalicBold'),
-    url('../stylesheet/texgyreadventor-bold.otf') format("opentype"),
+    src: url('../stylesheet/texgyreadventor-bold.otf') format("opentype"),
     url('../stylesheet/texgyreadventor-bolditalic.otf') format("opentype"),
     url('../stylesheet/texgyreadventor-italic.otf') format("opentype"),
     url('../stylesheet/texgyreadventor-regular.otf') format("opentype");
