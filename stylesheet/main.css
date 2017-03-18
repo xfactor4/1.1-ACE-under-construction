@@ -1,9 +1,45 @@
 @font-face {
-    font-family: '../stylesheet/TeX Gyre Adventor';
-    src: url('../stylesheet/texgyreadventor-bold.otf') format("opentype"),
-    url('../stylesheet/texgyreadventor-bolditalic.otf') format("opentype"),
-    url('../stylesheet/texgyreadventor-italic.otf') format("opentype"),
-    url('../stylesheet/texgyreadventor-regular.otf') format("opentype");
+    font-family: 'texgyreadventorbold';
+    src: url('texgyreadventor-bold-webfont.woff2') format('woff2'),
+         url('texgyreadventor-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'texgyreadventorbold_italic';
+    src: url('texgyreadventor-bolditalic-webfont.woff2') format('woff2'),
+         url('texgyreadventor-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'texgyreadventoritalic';
+    src: url('texgyreadventor-italic-webfont.woff2') format('woff2'),
+         url('texgyreadventor-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'texgyreadventorregular';
+    src: url('texgyreadventor-regular-webfont.woff2') format('woff2'),
+         url('texgyreadventor-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
 }
 
