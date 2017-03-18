@@ -1,9 +1,9 @@
 @font-face {
     font-family: "TeX Gyre Adventor";
-    src: url(../adidas/texgyreadventor-bold.otf) format("opentype");
-    src: url(../adidas/texgyreadventor-bolditalic.otf) format("opentype");
-    src: url(../adidas/texgyreadventor-italic.otf) format("opentype");
-    src: url(../adidas/texgyreadventor-regular.otf) format("opentype");
+    src: url('adidas/texgyreadventor-bold.otf') format("opentype");
+    src: url('adidas/texgyreadventor-bolditalic.otf') format("opentype");
+    src: url('adidas/texgyreadventor-italic.otf') format("opentype");
+    src: url('adidas/texgyreadventor-regular.otf') format("opentype");
 }
 
 
