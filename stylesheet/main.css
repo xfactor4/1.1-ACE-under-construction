@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'TeX Gyre Adventor';
-    src: url(texgyreadventor-bold.otf) format("opentype"),
-    url(texgyreadventor-bolditalic.otf) format("opentype"),
-    url(texgyreadventor-italic.otf) format("opentype"),
-    url(texgyreadventor-regular.otf) format("opentype");
+    src: url('file:texgyreadventor-bold.otf') format("opentype"),
+    url('file:texgyreadventor-bolditalic.otf') format("opentype"),
+    url('file:texgyreadventor-italic.otf') format("opentype"),
+    url('file:texgyreadventor-regular.otf') format("opentype");
 }
 
 
