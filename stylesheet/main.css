@@ -1,9 +1,14 @@
 @font-face {
-    font-family: 'TeX Gyre Adventor';
-    src: url('file:texgyreadventor-bold.otf') format("opentype"),
-    url('file:texgyreadventor-bolditalic.otf') format("opentype"),
-    url('file:texgyreadventor-italic.otf') format("opentype"),
-    url('file:texgyreadventor-regular.otf') format("opentype");
+    font-family: '../stylesheet/TeX Gyre Adventor';
+    src: local('TeX Gyre Adventor'),
+    local('TeXGyreAdventor-Bold'),
+    local('TeXGyreAdventor-Italic'),
+    local('TeXGyreAdventor-ItalicBold'),
+    url('../stylesheet/texgyreadventor-bold.otf') format("opentype"),
+    url('../stylesheet/texgyreadventor-bolditalic.otf') format("opentype"),
+    url('../stylesheet/texgyreadventor-italic.otf') format("opentype"),
+    url('../stylesheet/texgyreadventor-regular.otf') format("opentype");
+
 }
 
 
