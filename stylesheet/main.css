@@ -43,7 +43,9 @@
 
 }
 
-
+.lead{
+    font-size: 20px;
+}
 
 
 .background::before{
@@ -60,6 +62,8 @@ h1, h3, p,li, table{
 
 
 }
+
+
 
 .col-centered{
 float: none;
